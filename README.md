@@ -20,8 +20,8 @@ allprojects {
 ```
 dependencies {
     ......
-    implementation 'com.github.emacs2012.ashelper:annotation:x.x.x'
-    annotationProcessor 'com.github.emacs2012.ashelper:compiler:x.x.x'
+    implementation 'com.github.emacs1024.ashelper:annotation:x.x.x'
+    annotationProcessor 'com.github.emacs1024.ashelper:compiler:x.x.x'
     ......
 }
 ```
