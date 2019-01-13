@@ -28,8 +28,12 @@ dependencies {
 
 # version
 当前版本信息:
-annotation: 1.0.8
-compiler  : 1.0.8
+```
+dependencies {
+    implementation 'com.github.emacs1024.ashelper:annotation:1.0.8'
+    annotationProcessor 'com.github.emacs1024.ashelper:compiler:1.0.8'
+}
+```
 
 
 # fix
